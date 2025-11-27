@@ -8,7 +8,7 @@ DATE:
 
 
 
-## PROCEDURE: 
+## PROCEDURE:  
 
 1.Double click on LT- SPICE  icon.
 2.New schematic window open.
