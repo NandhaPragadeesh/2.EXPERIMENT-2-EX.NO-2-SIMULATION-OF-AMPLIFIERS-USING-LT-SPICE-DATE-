@@ -7,7 +7,7 @@ DATE:
 ## AIM  : To simulate the performance of  INVERTING, NON INVERTING , DIFFERENTIAL AND INSTRUMENTATION AMPLIFIERS  circuits using LT- SPICE                
 
 
-
+ 
 ## PROCEDURE:  
 
 1.Double click on LT- SPICE  icon.
