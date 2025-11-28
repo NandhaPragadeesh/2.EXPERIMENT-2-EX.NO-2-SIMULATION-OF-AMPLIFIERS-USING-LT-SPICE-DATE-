@@ -69,14 +69,15 @@ PASTE THE OUTPUT WAVEFORM HERE
 
 PASTE THE CIRCUIT HERE
 
-<img width="685" height="388" alt="Screenshot 2025-11-28 000034" src="https://github.com/user-attachments/assets/0f6ce77a-8b51-4272-99d3-45652f796876" />
+<img width="1842" height="934" alt="Screenshot 2025-11-28 191452" src="https://github.com/user-attachments/assets/c1b491f4-f8bf-4549-b17a-df41a55d759d" />
 
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
 PASTE THE OUTPUT WAVEFORM HERE
 
-<img width="755" height="368" alt="Screenshot 2025-11-28 000043" src="https://github.com/user-attachments/assets/3b7ba6f5-eadb-43ac-b4d4-f4bdf1055b2e" />
+<img width="1756" height="536" alt="Screenshot 2025-11-28 195732" src="https://github.com/user-attachments/assets/86bbc660-611e-454d-b862-67d0c0828c6e" />
+
 
 
 ## RESULT
